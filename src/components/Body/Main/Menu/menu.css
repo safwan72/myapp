@@ -77,7 +77,6 @@ background-color:#e62f41;
     color: red;
 }
 .detailmenuimg{
-    width:100%;
     object-fit: contain;
     overflow: hidden;
 
