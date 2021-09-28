@@ -1,0 +1,14 @@
+.stafforder .table-wrapper table tr td{
+    color:white
+}
+.stafforder .table-wrapper table tr th{
+    color:white
+}
+.stafforder .table-wrapper table thead{
+    background-color:transparent;
+    color:white
+
+}
+.c-datatable-filter label {
+    margin-right: 8px;
+}

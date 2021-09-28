@@ -1,0 +1,14 @@
+.customerorder{
+    height:100vh;
+}
+.customerorder .customerorderinner{
+    padding:100px 0;
+}
+.customerorderinner table{
+    color:#fff;
+}
+.mytable{
+    color:#fff ;
+    border-color:transparent!important;
+    --cui-table-color:none;
+}

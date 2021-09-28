@@ -1,0 +1,13 @@
+.footer{
+    background-color: #645F56;
+    color: #fff
+}
+.iconyss{
+    font-size: 1.4rem;
+    margin-right: 8px;
+    transition: all 200ms;
+    cursor: pointer;
+}
+.iconyss:hover{
+    transform: scale(1.1);
+}

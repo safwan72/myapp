@@ -1,0 +1,89 @@
+.menu{
+    background-color:#FEE2B3;
+    color: black;
+}
+.iconsss{
+    font-size: 20px;    
+    cursor: pointer;
+}
+.col{
+    height: 100%;
+    color:black;
+}
+.col .card{
+    border: none;
+    box-shadow: none;
+    /* height: 100%; */
+}
+.col .card .card-body{
+    color:black;
+}
+.col .card .card-body .oldprice{
+    color:red;
+
+}
+.col .card img{
+    border-radius: 10px;
+    height: 100%;
+    object-fit: cover;
+}
+.detail{
+    margin-bottom: 40px;
+}
+.detail .card{
+    border: 0;
+    outline: 0;
+    box-shadow:none;
+}
+.detail .dishdetail{
+    max-height: 300px;
+    overflow-y: scroll;
+}
+.dishdetail::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+    -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+    border-radius: 10px;
+    background-color: #555;
+  }
+  
+  .dishdetail::-webkit-scrollbar {
+    width: 6px;
+    background-color: #555;
+  }
+  
+  .dishdetail::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+    box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+    -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+background-color:#e62f41;
+
+  }
+
+.detail .card .card-img-top{
+    width: 100%;
+    height:220px; 
+    object-fit: cover;
+}
+.detail .col .card .card-body{
+    color:black;
+}
+.addicon{
+    font-size: 20px;
+    color: green;
+    margin-right: 5px;
+}
+.minusicon{
+    font-size: 20px;
+    color: red;
+}
+.detailmenuimg{
+    width:100%;
+    object-fit: contain;
+    overflow: hidden;
+
+}
+.detailmenuimg img{
+    width: 100%;
+    height: 300px;
+    object-fit: fill;
+}

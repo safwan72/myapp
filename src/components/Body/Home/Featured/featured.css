@@ -1,0 +1,14 @@
+.featured .card-img-top{
+    object-fit: cover;
+    height: 150px;
+    width: 100%;
+}
+/* .featured .col{
+    height: 100%;
+}
+.featured .col .card{
+    height: 100%;
+}
+.featureddish{
+    height: 100%;
+} */

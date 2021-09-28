@@ -1,0 +1,52 @@
+.cartheader{
+    height:100vh;
+    background-image: linear-gradient( rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6) ),url('https://preview.colorlib.com/theme/coffeeblend/images/xbg_3.jpg.pagespeed.ic.vezfjy4tUK.webp');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+}
+.mytable{
+    color:#fff ;
+    border-color:transparent!important;
+    --cui-table-color:none;
+}
+.mytable tbody{
+    color:#fff ;
+}
+thead{
+    border-width: 0;
+}
+thead.mytablehead th {
+    background-color:#BB2D3B;
+    color:#fff;
+    border:none !important;
+    border-width:none !important;
+}
+.tableimg{
+    width: 100%;
+    height: 70px;
+    border-radius: 20px;
+    object-fit: contain;
+}
+.cartincrease{
+    font-size: 22px;
+cursor: pointer;
+    color: green;
+    margin-right: 7px;
+}
+.cartdecrease{
+    font-size: 22px;
+cursor: pointer;
+    color: red;
+    margin-left: 7px;
+
+}
+
+.customermodal .modal-content{
+    background-color:rgb(43, 42, 42);
+    color:#fff
+}
+.customermodal .modal-header .btn-close{
+    color:#fff
+}

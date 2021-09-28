@@ -1,0 +1,60 @@
+.navbar{
+    background:#0E1115;
+}
+.navbar.activenav{
+    background:rgba(49, 49, 49, 0.993);
+}
+.banner{
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform:translate(-50%, -50%);
+    color: white;
+    z-index: 1000;
+}
+.banner .caption{
+    font-size: 1.25rem;
+}
+.banner .heading{
+    font-size: 3.5rem;
+}
+.banner .desc{
+    font-size: 1.05rem;
+}
+.navbar .navbar-brand{
+    color:#e62f41;
+    font-size: 25px;
+}
+.navbar .navbar-brand:hover,.navbar-brand:active{
+    color:#e62f41;
+}
+.navbar .navbar-brand .navbarbrandtext{
+    color:white;
+}
+.navbar .nav-item {
+    margin-bottom: 5px;
+}
+.navbar .nav-item .nav-link{
+    color:#fff;
+    transition: 500ms;
+}
+.navbar .nav-item .nav-link:hover {
+    background-color:#e62f41;
+    border-radius: 5px;
+}
+.headerbanner{
+    height: 100vh;
+    min-height: 500px;
+    background-image: linear-gradient( rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6) ),url('../../../../xhero_bg.jpg.pagespeed.ic.08xBTGP0Gm.webp');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+}
+.navbar-toggler{
+border: none;
+    outline: none;
+}
+.navbar-collapse{
+margin-top: 10px;
+}

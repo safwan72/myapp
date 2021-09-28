@@ -1,0 +1,23 @@
+.profile{
+    background-color: rgba(26, 29, 32, 0.747);
+}
+.profile .profileinner{
+    padding:100px 0;
+}
+.divdivimg{
+    display:flex;
+    align-items:center;
+    justify-content:center
+}
+.divimg{
+    position: relative;
+    display:flex;
+    align-items:center;
+    justify-content:center
+}
+.imgdiv{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+        object-fit: fill;
+}

@@ -1,0 +1,17 @@
+.contactbody{
+    background-color:#FEE2B3;
+    color: black;
+}
+.myclass{
+    position: relative;
+}
+.icony{
+    color: red;
+    font-size: 1.5rem;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+.texty{
+    padding-left: 1.5rem;
+}

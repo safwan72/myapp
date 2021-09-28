@@ -1,0 +1,21 @@
+.section{
+    background-color:#FEE2B3;
+    color: black;
+}
+.section li{
+    list-style-type:none;
+}
+.celebimg{
+    width:100%;
+    object-fit: contain;
+    height:80%;
+}
+.lowertext{
+    margin-left: 15px;
+    font-size: 17px;
+    color: #59544B;
+}
+.lowertext span{
+    padding-right: 15px;
+    font-size: 18px;
+}

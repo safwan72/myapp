@@ -1,0 +1,9 @@
+.container .card{
+    background: transparent;
+    color: white;
+    border: 1px solid rgba(255, 255, 255, 0.562);
+    border-radius:10px;
+}
+.signup{
+    background-color: black;
+}
