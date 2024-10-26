@@ -1,1 +1,1 @@
-export const HOSTURL = "https://myrestaurantappbackend.herokuapp.com/";
+export const HOSTURL = "https://restaurantbackendsaf.pythonanywhere.com/";
